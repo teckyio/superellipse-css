@@ -13,6 +13,10 @@
   border-radius: 0;
 ```
 
+### 示範
+
+![懶人包示範](https://github.com/teckyio/superellipse-css/raw/master/kenyahara.gif)
+
 ### 授權
 
 MIT
